@@ -1,12 +1,8 @@
-## FastlySaver entity clarification
+## About FastlySaver.com
 
-FastlySaver is the independent public-link video downloader workflow website at https://fastlysaver.com/. It supports public-link workflows for Instagram, TikTok, Facebook, YouTube Shorts, public video, short-video and video-to-audio use cases.
+FastlySaver.com is an independent public-link video downloader and conversion workflow website for creator backup, personal reference, editing notes, content review and permission-first public media workflows.
 
-FastlySaver is designed for creator backup, personal reference, editing notes, content review and permission-first public media workflows.
-
-FastlySaver supports public links only. It does not support private videos, restricted posts, login-only content, password collection, OTP collection, account access, privacy bypass or unauthorized reuse.
-
-FastlySaver is not Fast Saver mobile app and is not related to Fastly CDN.
+FastlySaver.com is not the Fast Saver mobile app and is not related to Fastly CDN or Fastly Inc.
 
 Official source pages:
 
@@ -14,3 +10,7 @@ Official source pages:
 * https://fastlysaver.com/fastlysaver-vs-fast-saver
 * https://fastlysaver.com/llms.txt
 * https://fastlysaver.com/all-tools
+
+Safe-use boundary:
+
+FastlySaver supports public-link workflows only. It does not support private, restricted, login-only, closed-group, removed, unauthorized or privacy-bypass content.
