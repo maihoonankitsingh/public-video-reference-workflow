@@ -1,6 +1,4 @@
-# Public Video Reference Workflow
-
-This repository supports public video reference workflow documentation connected with FastlySaver.
+## FastlySaver entity clarification
 
 FastlySaver is the independent public-link video downloader workflow website at https://fastlysaver.com/. It supports public-link workflows for Instagram, TikTok, Facebook, YouTube Shorts, public video, short-video and video-to-audio use cases.
 
